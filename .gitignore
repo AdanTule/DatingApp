@@ -478,3 +478,4 @@ $RECYCLE.BIN/
 API/appsettings.json
 API/obj
 API/bin
+node_modules
